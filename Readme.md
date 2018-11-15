@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication4/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication4/Form1.vb))
+* [Program.cs](./CS/WindowsFormsApplication4/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication4/Program.vb))
+<!-- default file list end -->
 # How to programmatically show a specific page when a RibbonControl is minimized
 
 
